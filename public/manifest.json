@@ -1,0 +1,18 @@
+{
+  "name": "DanceMotion Studio",
+  "short_name": "DanceMotion",
+  "description": "Offline-first browser studio for converting dance videos into grey silhouette motion references for Gemini",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0c",
+  "theme_color": "#121217",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
